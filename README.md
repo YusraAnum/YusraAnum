@@ -55,9 +55,9 @@ Building modern, scalable and AI-powered applications that solve real-world prob
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YusraAnum&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusraAnum&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -66,7 +66,7 @@ Building modern, scalable and AI-powered applications that solve real-world prob
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YusraAnum &theme=tokyonight" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ Personal portfolio showcasing projects, skills and achievements.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YusraAnum&theme=react-dark"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Personal portfolio showcasing projects, skills and achievements.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: yusraanum23@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
