@@ -11,6 +11,9 @@ jobs:
     name: Jobs to update Snake
     runs-on: ubuntu-latest
     steps:
+      # Checkout repository first
+      - uses: actions/checkout@v4
+
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
@@ -18,8 +21,6 @@ jobs:
           github_user_name: YusraAnum
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
-
-      - uses: actions/checkout@v4
 
       - run: git config user.email "actions@github.com" && git config user.name "GitHub Actions"
 
