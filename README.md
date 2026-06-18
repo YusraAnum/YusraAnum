@@ -110,7 +110,7 @@ Personal portfolio showcasing projects, skills and achievements.
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YusraAnum/YusraAnum/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/YusraAnum/YusraAnum/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🌐 Connect With Me

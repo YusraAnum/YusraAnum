@@ -22,7 +22,6 @@ jobs:
           github_user_name: YusraAnum
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
 
       - name: Configure Git
         run: |
@@ -34,6 +33,6 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Generate Snake" || echo "No changes to commit"
           git push
