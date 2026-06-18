@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=80&lines=Hi+👋,+I'm+Yusra+Anum;Full+Stack+Developer;AI+Developer;Problem+Solver;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&center=true&vCenter=true&width=700&height=70&color=A855F7&lines=Hi+%F0%9F%91%8B%2C+I'm+Yusra+Anum" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YusraAnum&label=Profile+Views&color=A855F7&style=for-the-badge" />
 </p>
