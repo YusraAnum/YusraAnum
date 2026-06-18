@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Yusra Anum Banner" width="100%" />
+  <img src="./banner-1.png" alt="Yusra Anum Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Yusra Anum</h1>
 
